@@ -1,6 +1,7 @@
 #sistema de acceso para una persona.
 #si tiene entre 15 y 17 anios puede ingresar con un adulto.
 # si es mayor de 18 años, puede ingresar.
+
 edad = int(input("Ingresa porfa tu edad: ")) #esto es una variable con un int input para que el usuario ingrese su edad.
 nombre = input("¿Como te llamas? ")
 

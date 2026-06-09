@@ -1,4 +1,4 @@
-cliente = input("¿Que tipo de cliente eres? (VIP/Estudiante/Regular) ")
+cliente = input("¿Que tipo de cliente eres? (VIP/Estudiante/Regular) ") #Asignamos
 monto = float(input("Ingresa el monto de tu compra (Q):"))
 if cliente == "VIP":
     descuento = monto * 0.20
